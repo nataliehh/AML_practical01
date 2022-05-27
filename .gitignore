@@ -7,3 +7,4 @@
 !README.md
 !.ipynb_checkpoints/*
 !.ipynb_checkpoints/
+!prediction.csv
